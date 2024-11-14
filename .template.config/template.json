@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Renan Osório da Rosa",
+  "classifications": [ "Web", "API", "ASP.NET Core" ],
+  "identity": "PinkPlate.Template",
+  "name": "Template PinkPlate Web API DotNet 8",
+  "shortName": "PinkPlate-Template-8",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "PinkPlate", 
+  "preferNameDirectory": true
+}
